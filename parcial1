@@ -1,0 +1,9 @@
+1. Lista el primer apellido de todos los empleados en orden ascendente.
+3. Devuelve un listado con el código de oficina y la ciudad donde hay oficinas
+4. Devuelve un listado que muestre el nombre de cada empleados, el nombre de su jefe y el nombre del jefe de sus jefe
+5. Devuelve el nombre de los clientes a los que no se les ha entregado a tiempo un pedido.
+6. Devuelve un listado que muestre solamente los clientes que no han realizado ningún pago.
+7. Devuelve un listado que muestre solamente los empleados que no tienen un cliente asociado.
+8. Devuelve un listado que muestre los empleados que no tienen una oficina asociada y los que no tienen un cliente asociado.
+9. Devuelve un listado con el nombre de los empleados junto con el nombre de sus jefes. que contengan en nombre de empleado la letra m
+10. Muestra el nombre de los clientes que hayan realizado pagos junto con el nombre de sus representantes de ventas.
